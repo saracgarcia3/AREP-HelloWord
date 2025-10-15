@@ -1,6 +1,4 @@
-package co.edu.escuelaing.services.lambda;
-
-import co.edu.escuelaing.services.User;
+package co.edu.escuelaing.services;
 
 public class SecurityUtils {
     public static User Login(User u) {
